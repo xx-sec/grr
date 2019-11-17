@@ -44,4 +44,3 @@ WORKDIR /
 RUN rm -rf /tmp/grrdocker-scratch
 
 CMD ["/bin/bash"]
-© 2019 GitHub, Inc.
